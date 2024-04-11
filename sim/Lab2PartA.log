@@ -1,0 +1,14 @@
+Command: /home/users5/sah6489/526L/Lab2/./simv -l Lab2PartA.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Sep 20 14:21 2023
+                   0 a= 0 b= 0 s= 0 c= 0
+                  10 a= 0 b= 1 s= 1 c= 0
+                  30 a= 1 b= 0 s= 1 c= 0
+                  50 a= 1 b= 1 s= 0 c= 1
+$finish called from file "half_adder_tb.v", line 30.
+$finish at simulation time                   70
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 70 ns
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Wed Sep 20 14:21:48 2023

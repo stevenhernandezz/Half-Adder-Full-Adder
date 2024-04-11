@@ -1,0 +1,18 @@
+Command: /home/users5/sah6489/526L/Lab2/./simv -l Lab2PartB.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Sep 12 21:16 2023
+                   0 Data_in_A= 0 Data_in_B= 0 Data_in_C= 0 Data_out_Sum= 0 Data_out_Carry= 0
+                  10 Data_in_A= 0 Data_in_B= 0 Data_in_C= 1 Data_out_Sum= 1 Data_out_Carry= 0
+                  30 Data_in_A= 0 Data_in_B= 1 Data_in_C= 0 Data_out_Sum= 1 Data_out_Carry= 0
+                  50 Data_in_A= 0 Data_in_B= 1 Data_in_C= 1 Data_out_Sum= 0 Data_out_Carry= 1
+                  70 Data_in_A= 1 Data_in_B= 0 Data_in_C= 0 Data_out_Sum= 1 Data_out_Carry= 0
+                  90 Data_in_A= 1 Data_in_B= 0 Data_in_C= 1 Data_out_Sum= 0 Data_out_Carry= 1
+                 110 Data_in_A= 1 Data_in_B= 1 Data_in_C= 0 Data_out_Sum= 0 Data_out_Carry= 1
+                 130 Data_in_A= 1 Data_in_B= 1 Data_in_C= 1 Data_out_Sum= 1 Data_out_Carry= 1
+$finish called from file "full_adder_tb.v", line 27.
+$finish at simulation time                  150
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 150 ns
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Tue Sep 12 21:16:38 2023
